@@ -1,3 +1,2 @@
-this is a wlc file
-it is updated by dev2
-now its updated by dev3
+This is a wlc file
+It is updated by dev2
